@@ -1,3 +1,5 @@
+<html>
+<body>
 <H1>Education</H1>
 Bachelor's degree in Information Technology - Software DevelopmentIslamic University of Gaza at Gaza | September 2019 - Present
 <br>
@@ -15,3 +17,7 @@ Bachelor's degree in Information Technology - Software DevelopmentIslamic Univer
   <li>UI-UX</li>
   <li>Firebase and FireStore</li>
 </ul>
+                               
+  </body>
+</html>
+
