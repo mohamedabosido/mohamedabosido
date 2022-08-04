@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abosido</h1>
-<h3 align="center">A passionate flutter developer from Palestine</h3>
+<h3 align="center">A Passionate Flutter Developer From Palestine</h3>
 
 - 📫 How to reach me **abosido138011@gmail.com**
 
