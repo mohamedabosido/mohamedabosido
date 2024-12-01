@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, It's Mohamed Abosido</h1>
+<h1 align="center">Hi 👋, It's MOHAMMED ABUSIDU</h1>
 <h3 align="center">A Passionate Software Developer From Palestine</h3>
 
 - 📫 How to reach me **abosido138011@gmail.com**
