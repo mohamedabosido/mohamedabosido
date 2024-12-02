@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm MOHAMMED ABUSIDU</h1>
 <h3 align="center">A Passionate Laravel and Flutter Developer from Palestine</h3>
 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhiMnl6Z2g1NHNobXdrcjF2OTk2YTBzYXZ4aTI5ZnljcGF2dnd6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Coding GIF" width="350" height="350" />
-</div>
-
 - 🌟 I specialize in building scalable and secure backends using **Laravel** and delivering seamless cross-platform mobile apps with **Flutter**.  
 - 🧑‍💻 With **3+ years of experience** in software development, I’ve worked on diverse projects ranging from e-commerce platforms to healthcare apps.  
 - 🎓 **BSc in Software Development** and recipient of multiple awards.  
