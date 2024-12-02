@@ -2,13 +2,13 @@
 <h3 align="center">A Passionate Laravel and Flutter Developer from Palestine</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600" height="300" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhiMnl6Z2g1NHNobXdrcjF2OTk2YTBzYXZ4aTI5ZnljcGF2dnd6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Coding GIF" width="600" height="300" />
 </div>
 
 - 🌟 I specialize in building scalable and secure backends using **Laravel** and delivering seamless cross-platform mobile apps with **Flutter**.  
 - 🧑‍💻 With **3+ years of experience** in software development, I’ve worked on diverse projects ranging from e-commerce platforms to healthcare apps.  
-- 🎓 **BSc in Software Development** and recipient of multiple awards, including second place in the **ICPC competition**.  
-- 🌱 I’m currently enhancing my skills in **AI-powered app development** and exploring advanced features.  
+- 🎓 **BSc in Software Development** and recipient of multiple awards.  
+- 🌱 I’m currently enhancing my skills in **AI-powered app development** and exploring advanced features of **Dart** and **PHP**.  
 - 📫 How to reach me: **abosido138011@gmail.com**  
 - ⚡ Fun fact: I love football and was the captain of my university's football team! ⚽  
 
@@ -18,7 +18,7 @@
   <a href="https://fb.com/mohamed.abosido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed.abosido" height="30" width="40" /></a>
   <a href="https://instagram.com/mo7amed_sido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mo7amed_sido" height="30" width="40" /></a>
   <a href="https://www.behance.net/mo7amedsido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mo7amedsido" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/mohammed-abusidu" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-abu-sido-52924523a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -51,5 +51,5 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abosido&show_icons=true&locale=en" alt="abosido stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedabosido&show_icons=true&locale=en" alt="mohamedabosido stats" />
 </p>
