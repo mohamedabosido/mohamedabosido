@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MOHAMMED ABUSIDU</h1>
+<h1 align="center">MOHAMMED ABUSIDU</h1>
 <h3 align="center">A Passionate Laravel and Flutter Developer from Palestine</h3>
 
 - 🌟 I specialize in building scalable and secure backends using **Laravel** and delivering seamless cross-platform mobile apps with **Flutter**.  
