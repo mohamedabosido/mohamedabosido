@@ -1,12 +1,12 @@
 <h1 align="center">MOHAMMED ABUSIDU</h1>
 <h3 align="center">A Passionate Laravel and Flutter Developer from Palestine</h3>
 
-- 🌟 I specialize in building scalable and secure backends using **Laravel** and delivering seamless cross-platform mobile apps with **Flutter**.  
-- 🧑‍💻 With **3+ years of experience** in software development, I’ve worked on diverse projects ranging from e-commerce platforms to healthcare apps.  
-- 🎓 **BSc in Software Development** and recipient of multiple awards.  
-- 🌱 I’m currently enhancing my skills in **AI-powered app development** and exploring advanced features.  
-- 📫 How to reach me: **abosido138011@gmail.com**  
-- ⚡ Fun fact: I love football and was the captain of my university's football team! ⚽  
+- 🎓 Master’s in Computer Science with a strong research background in AI and NLP applications.
+- 🌟 I specialize in building scalable and secure backends using Laravel and Filament PHP, and delivering cross-platform mobile apps with Flutter.
+- 🧑‍💻 With 3+ years of professional experience, I’ve developed full-stack solutions ranging from multi-vendor e-commerce systems to healthcare and educational platforms.
+- 🧠 Passionate about AI-powered app development, system design, and software security.
+- 🏆 Recipient of multiple academic awards and competitive programming achievements.
+- 📫 Reach me at abosido138011@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
